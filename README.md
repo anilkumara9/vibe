@@ -1,6 +1,8 @@
-# Vibe (Polo) - AI Vibe Coding Platform
+# Vibe (Vedic) - AI Vibe Coding Platform
 
 Build full-stack web apps from chat prompts using a multi-agent coding pipeline, sandbox execution, and live preview fragments.
+
+![Vedic Preview](public/anil.png)
 
 ## What This Project Does
 
